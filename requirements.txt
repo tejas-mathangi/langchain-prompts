@@ -1,0 +1,12 @@
+# langchain Core 
+langchain 
+langchain-core
+
+# Hugging Face Integration   
+langchain-huggingface
+huggingface-hub 
+
+# Envirnemnt Variables Management
+python-dotenv
+
+streamlit
